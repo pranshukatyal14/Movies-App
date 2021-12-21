@@ -1,0 +1,11 @@
+.movies-table-row{
+    display: flex;
+    height: 40px;
+    border: 1px solid green;
+}
+.column{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
