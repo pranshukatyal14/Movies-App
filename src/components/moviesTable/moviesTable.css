@@ -1,5 +1,5 @@
 .movies-table{
     width: calc(100vw - 300px);
-    height: calc(100vh - 150px);
-    border: 1px solid black;
+    height: calc(100vh - 250px);
+    box-shadow: 0 0 5px 2px lightgray;
 }
